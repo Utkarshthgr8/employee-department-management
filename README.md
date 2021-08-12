@@ -1,6 +1,6 @@
 # employee-department-management-system
 
-This is a simple Employee-Department Management System Java Application.<br>It helps you manage employess and departments and link them.<br>
+This is a Simple Employee-Department Management System Java Application.<br>It helps you manage employess and departments and link them.<br>
 This README will contain Instructions on how to **Run The Application** and will go through all the functionalities of the program.
 
 ## Description
@@ -74,5 +74,7 @@ Click on Column Name of any Table to Sort / Click again to Sort in reverse order
 ### Special Features
 
 * Keeps log of every transaction with the Database.
+* Makes you sign-in instead of throwing errors and stop working.
+* Searching made easy with not needing to enter all the fields.
 
 _Let me know if you have something to say about the project!_
