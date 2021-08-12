@@ -93,7 +93,6 @@ public class backEnd {
 			while (resultSet.next()) {
 				databaseName = resultSet.getString(1);
 			}
-			System.out.println(databaseName);
 			if (databaseName != "emp_dept_management") {
 				statement.executeUpdate();
 				connection = DriverManager.getConnection(jdbcURL, username, password);
