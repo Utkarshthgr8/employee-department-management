@@ -17,6 +17,7 @@ This application will
 * Delete Department
 * Sort Table
 * Log Every Activity
+* Provide Documnentation for backEnd() methods
 
 All the data is easily visible in tables alongside each page.
 
@@ -74,6 +75,7 @@ Click on Column Name of any Table to Sort / Click again to Sort in reverse order
 ### Special Features
 
 * Keeps log of every transaction with the Database.
+* [Documentation](https://github.com/Utkarshthgr8/employee-department-management/blob/master/doc/overview-tree.html) available for major methods driving the Database and Frontend.
 * Makes you sign-in instead of throwing errors and stop working.
 * Searching made easy with not needing to enter all the fields.
 
