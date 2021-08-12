@@ -1,0 +1,171 @@
+
+Aug 12, 2021 11:42:17 AM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 11:59:45 AM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 11:59:48 AM management.HomePage$5 actionPerformed
+INFO: Exit
+Aug 12, 2021 12:00:25 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:00:27 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:00:29 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:00:31 PM management.HomePage$5 actionPerformed
+INFO: Exit
+Aug 12, 2021 12:01:32 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:02:04 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:03:37 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:03:40 PM management.HomePage$5 actionPerformed
+INFO: Exit
+Aug 12, 2021 12:46:20 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:46:20 PM management.HomePage initialize
+INFO: Connected to HomePage
+Aug 12, 2021 12:46:21 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:46:21 PM management.HomePage$4 actionPerformed
+INFO: Connecting to Initialise Page
+Aug 12, 2021 12:46:38 PM management.Initialise$3 actionPerformed
+INFO: Connecting to HomePage
+Aug 12, 2021 12:46:38 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:46:38 PM management.HomePage initialize
+INFO: Connected to HomePage
+Aug 12, 2021 12:47:40 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:47:40 PM management.HomePage$4 actionPerformed
+INFO: Connecting to Initialise Page
+Aug 12, 2021 12:47:47 PM management.Initialise$3 actionPerformed
+INFO: Connecting to HomePage
+Aug 12, 2021 12:47:47 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:47:47 PM management.HomePage initialize
+INFO: Connected to HomePage
+Aug 12, 2021 12:47:50 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:47:50 PM management.HomePage$2 actionPerformed
+INFO: Could not connect to database
+Aug 12, 2021 12:47:51 PM management.Initialise$2 actionPerformed
+INFO: Username set to postgres
+Aug 12, 2021 12:47:51 PM management.Initialise$2 actionPerformed
+INFO: Password set to 1234
+Aug 12, 2021 12:47:51 PM management.Initialise$2 actionPerformed
+INFO: Database Created
+Aug 12, 2021 12:47:52 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:47:52 PM management.HomePage initialize
+INFO: Connected to HomePage
+Aug 12, 2021 12:47:53 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:47:53 PM management.HomePage$2 actionPerformed
+INFO: Connecting to Employee Page
+Aug 12, 2021 12:47:56 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:03 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:04 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:09 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:26 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:26 PM management.HomePage initialize
+INFO: Connected to HomePage
+Aug 12, 2021 12:48:28 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:28 PM management.HomePage$4 actionPerformed
+INFO: Connecting to Initialise Page
+Aug 12, 2021 12:48:29 PM management.Initialise$2 actionPerformed
+INFO: Username set to postgres
+Aug 12, 2021 12:48:29 PM management.Initialise$2 actionPerformed
+INFO: Password set to 1234
+Aug 12, 2021 12:48:29 PM management.Initialise$2 actionPerformed
+INFO: Database Created
+Aug 12, 2021 12:48:30 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:30 PM management.HomePage initialize
+INFO: Connected to HomePage
+Aug 12, 2021 12:48:33 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:34 PM management.HomePage$2 actionPerformed
+INFO: Connecting to Employee Page
+Aug 12, 2021 12:48:37 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:43 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:44 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:51 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:52 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:52 PM management.HomePage initialize
+INFO: Connected to HomePage
+Aug 12, 2021 12:48:54 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:48:54 PM management.HomePage$3 actionPerformed
+INFO: Connecting to Departments Page
+Aug 12, 2021 12:49:20 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:49:22 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 12:49:23 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:22:46 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:22:47 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:22:50 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:22:57 PM management.HomePage$5 actionPerformed
+INFO: Session ended by user
+Aug 12, 2021 1:23:35 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:23:36 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:23:40 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:23:41 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:23:44 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:23:45 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:23:46 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:23:48 PM management.CreateDepartment$3 actionPerformed
+INFO: Session ended by user
+
+Aug 12, 2021 1:24:14 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:15 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:17 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:18 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:19 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:26 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:27 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:34 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:36 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:37 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:39 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:24:41 PM management.CreateDepartment$3 actionPerformed
+INFO: Session ended by user
+
+Aug 12, 2021 1:52:40 PM management.backEnd <init>
+INFO: New Session Started Successfully
+Aug 12, 2021 1:52:48 PM management.HomePage$5 actionPerformed
+INFO: Session ended by user
