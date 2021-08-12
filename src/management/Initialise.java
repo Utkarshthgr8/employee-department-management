@@ -107,13 +107,11 @@ public class Initialise extends JFrame {
 		contentPane.add(lblNewLabel_1);
 		
 		textFieldUsername = new JTextField();
-		textFieldUsername.setText("postgres");
 		textFieldUsername.setBounds(645, 270, 229, 50);
 		contentPane.add(textFieldUsername);
 		textFieldUsername.setColumns(10);
 		
 		textFieldPassword = new JTextField();
-		textFieldPassword.setText("1234");
 		textFieldPassword.setColumns(10);
 		textFieldPassword.setBounds(645, 330, 229, 50);
 		contentPane.add(textFieldPassword);
