@@ -474,22 +474,26 @@ public class backEnd {
 	 */
 
 	public boolean delete_emp(int employeeID) {
-		String sql = String.format("DELETE  FROM emp_db WHERE emp_id = '%d'", employeeID);
-		String sql2 = String.format("DELETE  FROM emp_dept WHERE emp_id = '%d'", employeeID);
-		try {
-			Statement create_statement = connection.createStatement();
-			int rows = create_statement.executeUpdate(sql);
-			@SuppressWarnings("unused")
-			int rows2 = create_statement.executeUpdate(sql2);
-			if (rows > 0) {
-				connection.close();
-				logs.logger.info(String.format("Employee no : '%d' was sucessfully deleted", employeeID));
-				return true;
+		if(init()) {
+			String sql = String.format("DELETE  FROM emp_db WHERE emp_id = '%d'", employeeID);
+			String sql2 = String.format("DELETE  FROM emp_dept WHERE emp_id = '%d'", employeeID);
+			try {
+				Statement create_statement = connection.createStatement();
+				int rows = create_statement.executeUpdate(sql);
+				@SuppressWarnings("unused")
+				int rows2 = create_statement.executeUpdate(sql2);
+				if (rows > 0) {
+					connection.close();
+					logs.logger.info(String.format("Employee no : '%d' was sucessfully deleted", employeeID));
+					return true;
+				}
+			} catch (SQLException e) {
+				// TODO Auto-generated catch block
+				logs.logger.warning("Deletion operation failed.");
+				e.printStackTrace();
 			}
-		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			logs.logger.warning("Deletion operation failed.");
-			e.printStackTrace();
+		}else {
+			return false;
 		}
 		return false;
 	}
