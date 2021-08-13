@@ -74,7 +74,7 @@ Click on Column Name of any Table to Sort / Click again to Sort in reverse order
 
 ### The Database
 
-When the 'Check/Initialise' button is pressed, the program automatically creates a new Database named 'employee_dept_management' in PostgreSQL with User Name and Password entered by the user if it doesn't exist already, if it already exists, the program will simply connect to it with the User Name and Password entered by the user. It will implement many-to-many relationship with the dept_id table and the emp_id table, with the emp_dept table as a bridge linking the two tables.
+When the 'Check/Initialise' button is pressed, the program automatically creates a new Database named 'employee_dept_management' in PostgreSQL with User Name and Password entered by the user if it doesn't exist already, if it already exists, the program will simply connect to it with the User Name and Password entered by the user. It will implement many-to-many relationship with the dept_id table and the emp_id table, with the emp_dept table as a bridge linking the two tables. All the primary keys are auto generated, incrementing by 1 for every row, and are set to be for maximmum limit of 1000000 (One Million) records.
 The Database will be created with the following TABLES:
 * dept_db
 * emp_db
